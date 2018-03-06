@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="250"
+   height="349"
+   viewBox="0 0 66.145831 92.339586"
+   version="1.1"
+   id="svg4987"
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06"
+   sodipodi:docname="howstretch.svg">
+  <defs
+     id="defs4981" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="-24.285714"
+     inkscape:cy="286.13063"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1920"
+     inkscape:window-height="1002"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata4984">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-nc-sa/4.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-nc-sa/4.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:prohibits
+           rdf:resource="http://creativecommons.org/ns#CommercialUse" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-204.6604)">
+    <ellipse
+       style="fill:#0000ff;fill-opacity:1;stroke-width:1.10878992;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path3699"
+       ry="4.1556821"
+       rx="14.572171"
+       cy="235.30249"
+       cx="-18.559698"
+       transform="matrix(0.9155467,-0.40221169,0.17384148,0.98477365,0,0)" />
+    <ellipse
+       style="fill:#0000ff;fill-opacity:1;stroke-width:0.68335158;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path3707"
+       cx="247.51097"
+       cy="145.84874"
+       rx="11.249931"
+       ry="2.6751678"
+       transform="matrix(0.70569268,0.70851806,-0.89392426,0.44821804,0,0)"
+       inkscape:transform-center-x="1.0551046"
+       inkscape:transform-center-y="-5.2819324" />
+    <ellipse
+       style="fill:#0000ff;fill-opacity:1;stroke-width:1.10878992;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path3699-3"
+       ry="4.1556821"
+       rx="14.572171"
+       cy="278.39328"
+       cx="-26.756977"
+       transform="matrix(0.9155467,-0.40221169,0.17384148,0.98477365,0,0)" />
+    <ellipse
+       style="fill:#0000ff;fill-opacity:1;stroke-width:0.71136039;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path3707-6"
+       cx="67.814667"
+       cy="304.66422"
+       rx="10.747655"
+       ry="3.0344374"
+       transform="matrix(0.9006113,-0.43462546,-0.0529087,0.99859935,0,0)"
+       inkscape:transform-center-x="4.5179851"
+       inkscape:transform-center-y="-1.2829823" />
+    <path
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.24747436;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 27.585531,245.66948 0.946941,-0.353 0.946944,-0.353 -0.855415,-1.21748 -0.855513,-1.21744 -0.09143,1.57044 z m 2.665929,5.91989 c -4.201985,-15.33379 0,0 0,0 z"
+       id="path3729-7"
+       inkscape:connector-curvature="0"
+       inkscape:transform-center-x="0.7685491"
+       inkscape:transform-center-y="2.2666083" />
+    <path
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.24747436;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 23.361026,230.57361 -0.788425,0.70626 -0.788426,0.70627 1.158455,0.80751 1.158533,0.80744 -0.370107,-1.51371 z m -4.227733,-4.51656 c 8.407228,12.76695 0,0 0,0 z"
+       id="path3729-5"
+       inkscape:connector-curvature="0" />
+    <path
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.24747436;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 61.131787,218.07524 -0.993502,-0.0414 -0.993497,-0.0414 0.451903,1.48319 0.451997,1.48319 0.5415,-1.4418 z m -0.791904,-6.6227 c -0.492793,16.08769 0,0 0,0 z"
+       id="path3729-56"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.91522193px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.09788054"
+       x="47.942596"
+       y="200.36465"
+       id="text4944"
+       transform="scale(0.92595524,1.0799658)"><tspan
+         sodipodi:role="line"
+         id="tspan4942"
+         x="47.942596"
+         y="200.36465"
+         style="stroke-width:0.09788054">Gravity</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.91522193px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.09788054"
+       x="4.7110591"
+       y="206.5125"
+       id="text4948"
+       transform="scale(0.92595524,1.0799658)"><tspan
+         sodipodi:role="line"
+         id="tspan4946"
+         x="4.7110591"
+         y="206.5125"
+         style="stroke-width:0.09788054">Opposing Muscle</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.91522193px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.09788054"
+       x="19.253311"
+       y="237.83426"
+       id="text4952"
+       transform="scale(0.92595524,1.0799658)"><tspan
+         sodipodi:role="line"
+         id="tspan4950"
+         x="19.253311"
+         y="237.83426"
+         style="stroke-width:0.09788054">Target Muscle</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.91522193px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.09788054"
+       x="4.7110558"
+       y="255.73238"
+       id="text4956"
+       transform="scale(0.92595524,1.0799658)"><tspan
+         sodipodi:role="line"
+         id="tspan4954"
+         x="4.7110558"
+         y="255.73238"
+         style="stroke-width:0.09788054">Extension Stretch</tspan></text>
+  </g>
+</svg>
